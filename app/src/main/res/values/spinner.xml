@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cost_type_array">
+        <item>travel</item>
+        <item>eating</item>
+        <item>traffic</item>
+        <item>shopping</item>
+    </string-array>
+</resources>
